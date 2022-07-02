@@ -5,6 +5,10 @@ public class Sample {
 	
 	private void p1() {
 System.out.println("p1");
+System.out.println();
+System.out.println();
+System.out.println();
+System.out.println();
 	}
 	
 
