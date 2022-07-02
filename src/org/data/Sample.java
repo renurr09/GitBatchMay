@@ -6,10 +6,17 @@ public class Sample {
 System.out.println("p2");
 	}
 	
+	private void p1() {
+System.out.println("p1");
+	}
+	
+
+	
 	public static void main(String[] args) {
 		
 		
 		System.out.println("im a master");
 	}
 
+	
 }
