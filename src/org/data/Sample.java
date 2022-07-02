@@ -2,6 +2,9 @@ package org.data;
 
 public class Sample {
 	
+	private void p2() {
+System.out.println("p2");
+	}
 	
 	private void p1() {
 System.out.println("p1");
