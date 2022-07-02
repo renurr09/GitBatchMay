@@ -8,6 +8,10 @@ System.out.println("p2");
 	
 	private void p1() {
 System.out.println("p1");
+System.out.println();
+System.out.println();
+System.out.println();
+System.out.println();
 	}
 	
 
